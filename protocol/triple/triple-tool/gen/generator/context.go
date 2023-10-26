@@ -26,7 +26,7 @@ import (
 )
 
 import (
-	"dubbo.apache.org/dubbo-go/v3/triple-tool/util"
+	"dubbo.apache.org/dubbo-go/v3/protocol/triple/triple-tool/util"
 )
 
 type Context struct {

@@ -26,8 +26,8 @@ import (
 )
 
 import (
-	"dubbo.apache.org/dubbo-go/v3/triple-tool/gen"
-	"dubbo.apache.org/dubbo-go/v3/triple-tool/internal/version"
+	"dubbo.apache.org/dubbo-go/v3/protocol/triple/triple-tool/gen"
+	"dubbo.apache.org/dubbo-go/v3/protocol/triple/triple-tool/internal/version"
 )
 
 // rootCmd represents the base command when called without any subcommands

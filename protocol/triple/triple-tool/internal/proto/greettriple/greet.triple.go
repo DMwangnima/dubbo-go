@@ -16,7 +16,7 @@ import (
 )
 
 import (
-	proto "dubbo.apache.org/dubbo-go/v3/triple-tool/internal/proto"
+	proto "dubbo.apache.org/dubbo-go/v3/protocol/triple/triple-tool/internal/proto"
 )
 
 // This is a compile-time assertion to ensure that this generated file and the Triple package

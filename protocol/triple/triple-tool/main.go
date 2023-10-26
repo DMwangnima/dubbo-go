@@ -18,7 +18,7 @@
 package main
 
 import (
-	"dubbo.apache.org/dubbo-go/v3/triple-tool/cmd"
+	"dubbo.apache.org/dubbo-go/v3/protocol/triple/triple-tool/cmd"
 )
 
 func main() {
